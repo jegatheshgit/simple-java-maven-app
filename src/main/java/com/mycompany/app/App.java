@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World jenkinsgitintegration updated12!";
+    private final String message = "Hello World jenkinsgitintegration updated1233!";
 
     public App() {}
 
